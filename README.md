@@ -1,23 +1,23 @@
 # HTML Email Signatures
  HTML Email signatures – OSX, iOS, Gmail and Outlook
 
-#Installation
+Installation
 
-#Apple OSX Mail:
+Apple OSX Mail:
 I got started on this odyssey after reading Matt Coneybeare's excellent article 'How to Make an HTML Signature in Apple Mail for macOS Catalina 10.15' and he explains how to install and HTML signature on OSX Catalina 10.15: http://matt.coneybeare.me/how-to-make-an-html-signature-in-apple-mail-for-macos-catalina-10-dot-15
 Use html_signature_osx.html
 
-#Apple iOS Mail on iPhone/iPad
+Apple iOS Mail on iPhone/iPad
 • Open the html_signature_ios.html code file in a browser > select all > copy
 • On your iPhone/iPad go to settings > Mail > Signatures > paste into the box (if the styles don’t look correct, shake to undo – you should get a pop up to remove the styling)
 N.B. This is much easier to do if you have ‘HandOff’ activated as you can copy and paste from your computer
 
-#Gmail
+Gmail
 • Open the html_signature_ios.html code file in a browser (NOT Chrome) > select all > copy
 • Open Gmail in a browser (NOT Chrome – this will add styles) Go to Settings > General > scroll down to signature > create new
 • Paste into window and save
 
-#Outlook (on Windows)
+Outlook (on Windows)
 • In Outlook, go to signatures
 • Create new signature and save and close Outlook
 • In File Explorer > C Drive\Users\[YOUR USRNAME]\AppData\Roaming\Microsoft\Signatures
